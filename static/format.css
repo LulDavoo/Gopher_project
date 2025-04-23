@@ -1,0 +1,104 @@
+/* General Page Styling */
+body {
+    margin: 0; 
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f8f8f8;
+}
+
+/* Players Section Layout */
+.players-container {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    max-width: 100%;
+    padding: 10px;
+    align-items: start;
+}
+
+/* Stretch player boxes across the screen */
+.player-card {
+    display: flex;
+    align-items: center;
+    background-color: white;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+    width: 100%;  /* Makes player boxes take up the full width */
+    margin: 10 auto; /* Centers the boxes */
+    justify-content: flex-start;
+    gap: 20px;
+}
+
+/* Player Image Styling */
+.player-image img {
+    width: 150px; /* Keep image size */
+    height: 150px;
+    object-fit: contain;
+    border-radius: 8px;
+    margin-right: 25px;
+}
+
+/* Player Info Section */
+.player-info {
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    justify-content: flex-start;
+    align-items: flex-start;
+    margin-left: 50px;
+    min-width: 250px;
+    padding-left: 20px;
+    width: 250px;
+}
+
+/* Player Header */
+.player-header {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-size: 20px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 250px;
+}
+
+/* Jersey Number Styling */
+.jersey-number {
+    background-color: black;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+/* Player Details */
+.player-info strong {
+    margin: 5px 0;
+    font-size: 16px;
+    font-weight: bold;
+    color: #555;
+    display: inline-block;
+}
+
+/* Make it work for mobile */
+@media (max-width: 768px) {
+    .player-card {
+        flex-direction: column;
+        align-items: center;
+        text align: center;
+        width: 90%;
+    }
+    .player-image img {
+        width: 100px;
+        height: 100px;
+        object-fit: cover;
+        border-radius: 5px;
+    }
+     .player-info {
+    text-align: left;
+}
+}
+}
+

@@ -1,0 +1,39 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Coaches Page</title>
+    <style>
+      .hidden-header {
+        display:none;
+      }
+   </style>
+</head>
+<body>
+    
+<img src="{{ url_for('static', filename='gouchermascot.jpeg') }}" alt="gouchermascot" style="width:400px;height:auto;">
+
+    <h1>Welcome to the Coaches Page</h1>
+    <table id="coachesTable" border="1">
+        <thead>
+        <tr class="hidden-header">
+            <th>Name</th>
+            <th>Role</th>
+            <th>Email</th>
+            <th>Image</th>
+
+        </tr>
+        {% for Coach in coaches %}
+            <tr>
+                <td>{{ Coach.name }}</td>
+                <td>{{ Coach.role }}</td>
+                <td><a href="malito:{{ Coach.email }}">{{ Coach.email }}</a></td>
+               <img src="{{ url_for('static', filename='Coaches_images/Coach'+Coach.coach_id|string+'.jpg') }}" alt="{{ Coach.name }}" style="width:200px;height:auto; margin-right: 50px;">       
+ </td>
+            </tr>
+        {% endfor %}
+    </table>
+</body>
+</html>

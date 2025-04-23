@@ -1,0 +1,18 @@
+table {
+    width: 80%; /* Stretches table across the full page */
+    border-collapse: collapse; /* Keeps borders clean */
+    margin: auto;
+}
+
+th, td {
+    padding: 10px; /* Increases spacing inside cells */
+    text-align: center; /* Centers text in all cells */
+    border: 1px solid black; /* Keeps table borders */
+    font-size: 14px;
+}
+
+@media screen and (max-width: 768px) {
+    table {
+        font-size: 12px; /* Reduces font size on smaller screens */
+    }
+}

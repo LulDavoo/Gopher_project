@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Goucher MBB </title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='format.css') }}">
+</head>
+<body>
+    <h1>Welcome to the Home of the Gophers</h1>
+    <img src="{{ url_for('static', filename='home_images/home_images.jpeg') }}" alt="Basketball Image 1" width="500">
+    <img src="{{ url_for('static', filename='home_images/home1_images.jpeg') }}" alt="Basketball Image 2" width="500">
+    
+    <nav>
+        <ul>
+            <li><a href="{{ url_for('players.view_players') }}">Players</a></li>
+            <li><a href="{{ url_for('games.view_games') }}">Games</a></li>
+            <li><a href="{{ url_for('coaches') }}">Coaches</a></li>
+        </ul>
+    </nav>
+
+    <p>Use the navigation above to view team details. Home of the LandMark Conference in which we rep Blue Gold.</p>
+</body>
+</html>

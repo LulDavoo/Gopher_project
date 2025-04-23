@@ -1,0 +1,460 @@
+game_id,Player,Player_and_number,MIN,FGM-A,3PM-A,FTM-A,OREB,DREB,REB,AST,STL,BLK,TO,PF,PTS
+1,,STARTERS,,,,,,,,,,,,,
+1,Alex Miller,F45Alex Miller,17,2-3,"""0-0""","""0-0""",2,2,4,1,0,2,0,1,4
+1,Onterio Miller,G01Onterio Miller,22,3-4,"""0-1""","""0-0""",0,2,2,2,1,0,1,1,4
+1,Darrell Green,G02Darrell Green,28,"""3-7""","""0-3""","""2-2""",1,1,2,0,1,0,0,1,8
+1,Jacob Morgan,G21Jacob Morgan,35,"""5-14""","""1-2""","""0-0""",0,5,5,6,3,1,5,2,11
+1,Can Dalli,G32Can Dalli,28,"""5-11""","""3-7""","""0-0""",0,1,1,1,2,0,2,1,13
+1,SERVES,RESERVES,,,,,,,,,,,,,
+1,Brandon Joseph,F00Brandon Joseph,22,"""4-8""","""0-0""","""1-4""",3,8,11,0,0,1,0,1,9
+1,Liech Kong,F14Liech Kong,20,"""5-7""","""4-5""","""0-0""",1,2,3,2,0,3,5,4,14
+1,Mal Graham,G15Mal Graham,2,"""0-1""","""0-0""","""0-0""",0,0,0,0,2,0,0,1,0
+1,Darnell Morris Jr.,G20Darnell Morris Jr.,15,"""0-1""","""0-0""","""2-2""",0,4,4,2,0,0,3,0,2
+1,Peter Capan,G22Peter Capan,3,"""0-0""","""0-0""","""0-0""",0,0,0,1,0,0,1,0,0
+1,Jordan Price,G31Jordan Price,8,"""0-2""","""0-1""","""1-2""",0,1,1,0,1,0,2,1,1
+1,TEAM,TMTEAM,,,,,2,1,3,,,,1,0,
+1,TALS,TOTALS,,26-60,"""8-19""","""6-10""",9,27,36,15,10,7,20,13,66
+1,,,,43.30%,42.10%,60.00%,,,,,,,,,
+2,ARTERS,STARTERS,,,,,,,,,,,,,
+2,Brandon Joseph,F00Brandon Joseph,30,"""2-6""",0-0,"""7-8""",2,8,10,2,1,0,1,3,11
+2,Alex Miller,F45Alex Miller,22,"""4-6""",0-0,0-1,1,2,3,2,0,2,1,2,8
+2,Onterio Miller,G01Onterio Miller,29,"""7-16""","""3-7""",0-2,2,1,3,2,0,0,0,1,17
+2,Jacob Morgan,G21Jacob Morgan,33,"""6-15""",0-2,"""4-5""",0,4,4,4,3,0,6,3,16
+2,Can Dalli,G32Can Dalli,12,"""1-6""","""1-6""",0-0,1,2,3,0,2,0,3,0,3
+2,SERVES,RESERVES,,,,,,,,,,,,,
+2,Thomas Lewis,G05Thomas Lewis,6,0-1,0-1,0-0,0,0,0,0,0,0,0,0,0
+2,Jaden Workman,G11Jaden Workman,10,0-1,0-0,0-0,0,0,0,2,1,0,0,0,0
+2,Josiah Gregg,F12Josiah Gregg,6,"""1-2""",0-0,"""1-2""",1,2,3,0,0,0,1,1,3
+2,Liech Kong,F14Liech Kong,13,"""2-4""","""1-2""",0-0,4,1,5,1,0,1,0,1,5
+2,Mal Graham,G15Mal Graham,1,0-0,0-0,0-0,0,0,0,0,0,0,0,1,0
+2,Darnell Morris Jr.,G20Darnell Morris Jr.,4,0-2,0-1,"""1-2""",2,1,3,1,0,0,1,1,1
+2,Peter Capan,G22Peter Capan,12,0-3,0-1,0-0,0,1,1,0,0,0,0,2,0
+2,Jordan Price,G31Jordan Price,6,0-1,0-1,"""2-2""",0,1,1,0,0,0,0,0,2
+2,BJ Smith,G40BJ Smith,16,"""2-3""","""1-2""",0-0,0,2,2,1,1,0,0,2,5
+2,TEAM,TMTEAM,,,,,0,0,0,,,,0,0,
+2,TALS,TOTALS,,25-66,"""6-23""",15-22,13,25,38,15,8,3,13,17,71
+2,,,,37.90%,26.10%,68.20%,,,,,,,,,
+3,ARTERS,STARTERS,,,,,,,,,,,,,
+3,Liech Kong,F14Liech Kong,33,"""6-11""","""1-4""","""2-4""",7,4,11,0,1,2,4,2,15
+3,Alex Miller,F45Alex Miller,14,0-6,0-0,0-0,3,0,3,1,0,0,0,1,0
+3,Onterio Miller,G01Onterio Miller,25,"""2-5""",0-1,"""4-5""",0,1,1,1,0,0,2,5,8
+3,Jacob Morgan,G21Jacob Morgan,35,"""3-14""","""3-14""","""3-4""",1,4,5,3,3,0,2,2,10
+3,Can Dalli,G32Can Dalli,23,"""3-11""","""3-11""","""4-4""",1,0,1,1,0,0,1,0,13
+3,SERVES,RESERVES,,,,,,,,,,,,,
+3,Brandon Joseph,F00Brandon Joseph,22,"""3-4""",0-0,"""2-3""",3,7,10,0,1,1,1,4,8
+3,Thomas Lewis,G05Thomas Lewis,8,"""2-3""","""2-3""",0-0,0,0,0,0,0,0,1,1,6
+3,Jaden Workman,G11Jaden Workman,17,"""2-2""","""2-2""",0-0,0,0,0,2,0,0,1,1,5
+3,Josiah Gregg,F12Josiah Gregg,1,0-0,0-0,0-0,1,1,2,0,0,0,1,0,0
+3,Darnell Morris,G20Darnell Morris,8,0-1,0-1,0-0,0,0,0,1,1,0,2,0,0
+3,Peter Capan,G22Peter Capan,2,0-2,0-2,0-0,0,0,0,0,0,0,0,1,0
+3,BJ Smith,G40BJ Smith,12,0-3,0-2,0-0,0,2,2,0,0,0,1,1,0
+3,TEAM,TMTEAM,,,,,2,3,5,,,,0,0,
+3,TALS,TOTALS,,21-62,"""8-25""",15-20,18,22,40,9,6,3,16,18,65
+3,,,,33.90%,32.00%,75.00%,,,,,,,,,
+4,ARTERS,STARTERS,,,,,,,,,,,,,
+4,Liech Kong,F14Liech Kong,24,"""2-8""","""1-4""","""4-4""",0,5,5,0,0,1,0,2,9
+4,Alex Miller,F45Alex Miller,20,0-2,0-0,0-0,2,7,9,1,0,1,0,2,0
+4,Onterio Miller,G01Onterio Miller,29,"""5-11""","""3-7""",0-0,0,1,1,0,0,0,2,2,13
+4,Darrell Green,G02Darrell Green,16,"""3-6""",0-2,0-0,0,1,1,0,1,0,2,0,6
+4,Jacob Morgan,G21Jacob Morgan,29,"""5-15""",0-3,"""1-2""",0,0,0,4,0,0,0,1,11
+4,SERVES,RESERVES,,,,,,,,,,,,,
+4,Brandon Joseph,F00Brandon Joseph,21,"""1-3""",0-0,"""1-2""",1,3,4,0,1,0,1,2,3
+4,Thomas Lewis,G05Thomas Lewis,9,0-1,0-1,0-0,0,0,0,0,0,0,0,0,0
+4,Jaden Workman,G11Jaden Workman,19,"""2-3""","""1-1""",0-0,0,1,1,2,0,0,1,2,5
+4,Josiah Gregg,F12Josiah Gregg,2,0-1,0-0,0-0,0,0,0,0,0,0,0,1,0
+4,Darnell Morris Jr.,G20Darnell Morris Jr.,7,0-2,0-0,0-0,1,2,3,0,1,0,0,0,0
+4,Jordan Price,G31Jordan Price,13,"""2-4""",0-1,0-0,0,1,1,0,0,0,1,0,4
+4,BJ Smith,G40BJ Smith,11,0-0,0-0,0-0,0,1,1,0,0,0,0,0,0
+4,TEAM,TMTEAM,,,,,0,2,2,,,,1,0,
+4,TALS,TOTALS,,20-56,"""5-19""","""6-8""",4,24,28,7,3,2,8,12,51
+4,,,,35.70%,26.30%,75.00%,,,,,,,,,
+5,ARTERS,STARTERS,,,,,,,,,,,,,
+5,Liech Kong,F14Liech Kong,32,"""5-8""",0-2,"""2-5""",2,7,9,2,0,3,0,4,12
+5,Onterio Miller,G01Onterio Miller,30,"""2-6""","""1-3""","""2-2""",3,3,6,1,0,0,4,1,7
+5,Darrell Green,G02Darrell Green,23,"""7-13""","""3-6""",0-1,2,3,5,0,0,0,0,5,17
+5,Jaden Workman,G11Jaden Workman,23,"""1-5""",0-0,"""3-4""",0,1,1,1,0,0,2,3,5
+5,Jacob Morgan,G21Jacob Morgan,37,"""7-12""",0-1,"""6-7""",0,4,4,4,5,0,4,1,20
+5,SERVES,RESERVES,,,,,,,,,,,,,
+5,Brandon Joseph,F00Brandon Joseph,18,"""2-6""",0-0,0-0,2,0,2,0,1,0,2,3,4
+5,Mal Graham,G15Mal Graham,5,0-0,0-0,0-0,0,0,0,1,0,0,1,1,0
+5,Darnell Morris Jr.,G20Darnell Morris Jr.,18,"""4-6""",0-1,"""3-3""",3,1,4,0,1,0,3,4,11
+5,Jordan Price,G31Jordan Price,5,"""1-3""",0-1,0-0,0,0,0,0,0,0,1,0,2
+5,BJ Smith,G40BJ Smith,0,0-0,0-0,0-0,0,1,1,0,0,0,0,0,0
+5,Alex Miller,F45Alex Miller,9,"""2-3""",0-0,0-0,1,0,1,0,0,0,0,0,4
+5,TEAM,TMTEAM,,,,,2,2,4,,,,0,0,
+5,TALS,TOTALS,,31-62,14-Apr,16-22,15,22,37,9,7,3,17,22,82
+5,,,,50.00%,28.60%,72.70%,,,,,,,,,
+6,ARTERS,STARTERS,,,,,,,,,,,,,
+6,Liech Kong,f14Liech Kong,31,"""6-16""","""2-5""","""1-2""",2,11,13,1,1,3,2,5,15
+6,Onterio Miller,g01Onterio Miller,19,0-5,0-3,"""2-2""",0,0,0,0,1,0,0,0,2
+6,Darrell Green,g02Darrell Green,24,"""2-7""",0-2,0-2,2,6,8,2,1,0,1,1,4
+6,Jaden Workman,g11Jaden Workman,23,"""1-4""","""1-1""",0-0,2,0,2,0,2,0,4,3,3
+6,Jacob Morgan,g21Jacob Morgan,29,"""6-14""",0-1,"""3-3""",0,4,4,2,1,0,3,3,15
+6,SERVES,RESERVES,,,,,,,,,,,,,
+6,Brandon Joseph,00Brandon Joseph,6,0-0,0-0,"""1-2""",1,0,1,0,0,1,2,0,1
+6,Thomas Lewis,05Thomas Lewis,12,0-2,0-2,0-0,0,0,0,0,0,0,2,2,0
+6,Josiah Gregg,12Josiah Gregg,2,0-0,0-0,0-0,0,0,0,0,0,0,0,1,0
+6,Mal Graham,15Mal Graham,2,"""1-1""",0-0,0-0,0,0,0,0,0,0,0,1,2
+6,Peter Capan,22Peter Capan,16,"""1-5""","""1-3""",0-0,0,1,1,0,2,0,1,0,3
+6,David Nwankwo,23David Nwankwo,8,0-3,0-1,"""1-4""",2,3,5,0,0,0,0,0,1
+6,Frank Pena,25Frank Pena,2,0-1,0-0,0-0,0,0,0,0,0,0,0,0,0
+6,Jordan Price,31Jordan Price,1,0-0,0-0,0-0,0,0,0,0,0,0,0,0,0
+6,Can Dalli,32Can Dalli,17,"""2-7""","""1-5""",0-1,1,2,3,1,0,0,1,0,5
+6,BJ Smith,40BJ Smith,1,0-0,0-0,0-0,0,0,0,0,0,0,0,0,0
+6,Jon Perry,44Jon Perry,1,0-0,0-0,0-0,0,0,0,0,0,0,0,0,0
+6,Alex Miller,45Alex Miller,6,"""1-4""",0-0,"""2-3""",3,1,4,1,0,0,2,2,4
+6,TEAM,TMTEAM,,,,,2,3,5,,,,0,0,
+6,TALS,TOTALS,,20-69,"""5-23""","""10-19""",15,31,46,7,8,4,18,18,55
+6,,,,29.00%,21.70%,52.60%,,,,,,,,,
+7,ARTERS,STARTERS,,,,,,,,,,,,,
+7,Liech Kong,F14Liech Kong,21,"""1-5""",0-0,0-0,1,3,4,0,1,1,2,2,2
+7,Onterio Miller,G01Onterio Miller,15,0-3,0-1,0-0,0,2,2,0,0,0,1,0,0
+7,Darrell Green,G02Darrell Green,26,"""3-9""",0-4,"""1-2""",1,7,8,1,3,0,4,2,7
+7,Jaden Workman,G11Jaden Workman,23,"""6-6""","""1-1""",0-0,0,2,2,3,2,0,1,3,13
+7,Jacob Morgan,G21Jacob Morgan,31,"""6-8""",0-2,"""2-2""",1,7,8,4,1,0,4,0,14
+7,SERVES,RESERVES,,,,,,,,,,,,,
+7,Brandon Joseph,F00Brandon Joseph,7,"""1-2""",0-0,0-0,1,3,4,0,0,1,1,1,2
+7,Thomas Lewis,G05Thomas Lewis,6,0-1,0-1,0-0,0,0,0,1,0,0,0,1,0
+7,Josiah Gregg,F12Josiah Gregg,4,"""1-3""",0-0,0-0,0,0,0,0,0,0,1,1,2
+7,Mal Graham,G15Mal Graham,2,"""1-1""",0-0,0-0,0,0,0,0,0,0,0,1,2
+7,Darnell Morris Jr.,G20Darnell Morris Jr.,17,"""2-4""","""1-2""","""2-4""",0,2,2,0,0,0,2,0,7
+7,Peter Capan,G22Peter Capan,7,0-0,0-0,0-0,0,0,0,0,0,0,1,0,0
+7,David Nwankwo,F23David Nwankwo,5,0-1,0-0,0-0,0,1,1,0,1,0,0,0,0
+7,Frank Pena,G25Frank Pena,2,0-0,0-0,0-0,0,0,0,0,0,0,0,0,0
+7,Jordan Price,G31Jordan Price,1,0-0,0-0,0-0,0,0,0,0,0,0,0,0,0
+7,Can Dalli,G32Can Dalli,18,"""5-9""","""3-7""","""1-1""",0,1,1,1,1,0,0,2,14
+7,BJ Smith,G40BJ Smith,1,0-0,0-0,0-0,0,0,0,0,0,0,0,1,0
+7,Stefan Macakanja,G43Stefan Macakanja,1,0-0,0-0,0-0,0,0,0,0,0,0,0,0,0
+7,Jon Perry,G44Jon Perry,2,0-0,0-0,0-0,0,0,0,0,0,0,0,0,0
+7,Alex Miller,F45Alex Miller,11,"""2-2""",0-0,"""1-2""",2,2,4,0,0,0,0,3,5
+7,TEAM,TMTEAM,,,,,0,1,1,,,,0,0,
+7,TALS,TOTALS,,28-54,"""5-18""","""7-11""",6,31,37,10,9,2,17,17,68
+7,,,,51.90%,27.80%,63.60%,,,,,,,,,
+8,ARTERS,STARTERS,,,,,,,,,,,,,
+8,Liech Kong,F14Liech Kong,21,"""2-5""",0-2,0-0,1,2,3,3,2,1,3,1,4
+8,Onterio Miller,G01Onterio Miller,30,"""5-11""","""4-8""",0-0,5,4,9,0,0,0,1,0,14
+8,Darrell Green,G02Darrell Green,25,0-2,0-1,0-0,0,6,6,3,0,0,5,2,0
+8,Jaden Workman,G11Jaden Workman,28,"""1-5""","""1-1""","""5-6""",2,1,3,4,0,0,2,2,8
+8,Jacob Morgan,G21Jacob Morgan,25,"""1-3""",0-0,"""1-5""",0,2,2,2,0,0,1,4,3
+8,SERVES,RESERVES,,,,,,,,,,,,,
+8,Brandon Joseph,F00Brandon Joseph,9,"""1-3""",0-0,0-0,2,2,4,1,0,0,2,2,2
+8,Thomas Lewis,G05Thomas Lewis,4,0-1,0-1,0-0,0,0,0,0,0,0,0,0,0
+8,Darnell Morris Jr.,G20Darnell Morris Jr.,14,"""2-5""","""1-3""",0-0,0,1,1,1,2,1,1,0,5
+8,Peter Capan,G22Peter Capan,7,0-1,0-0,0-0,0,0,0,0,0,0,1,0,0
+8,Can Dalli,G32Can Dalli,19,"""9-13""","""5-9""","""1-1""",0,2,2,0,4,0,1,2,24
+8,Alex Miller,F45Alex Miller,18,"""3-4""",0-0,0-1,0,5,5,1,0,0,2,2,6
+8,TEAM,TMTEAM,,,,,1,4,5,,,,0,0,
+8,TALS,TOTALS,,24-53,"""11-25""","""7-13""",11,29,40,15,8,2,19,15,66
+8,,,,45.30%,44.00%,53.80%,,,,,,,,,
+9,ARTERS,STARTERS,,,,,,,,,,,,,
+9,Liech Kong,F14Liech Kong,29,"""3-6""","""1-4""","""4-4""",0,6,6,2,0,0,2,0,11
+9,Onterio Miller,G01Onterio Miller,30,"""2-9""","""1-3""","""4-4""",1,2,3,1,0,0,2,3,9
+9,Darrell Green,G02Darrell Green,29,"""8-8""","""3-3""",0-1,2,1,3,0,0,1,2,1,19
+9,Jaden Workman,G11Jaden Workman,30,"""3-8""",0-2,"""2-2""",0,4,4,3,0,2,4,4,8
+9,Can Dalli,G32Can Dalli,24,"""2-6""","""1-3""",0-0,1,1,2,1,1,0,2,1,5
+9,SERVES,RESERVES,,,,,,,,,,,,,
+9,Brandon Joseph,F00Brandon Joseph,7,"""1-1""",0-0,0-0,1,2,3,0,0,0,2,3,2
+9,Josiah Gregg,F12Josiah Gregg,2,"""1-3""",0-0,0-0,1,0,1,0,0,0,0,0,2
+9,Mal Graham,G15Mal Graham,2,0-0,0-0,0-0,0,0,0,0,0,0,0,0,0
+9,Darnell Morris Jr.,G20Darnell Morris Jr.,21,"""1-3""",0-2,"""2-2""",1,1,2,0,0,0,4,0,4
+9,Peter Capan,G22Peter Capan,6,"""2-2""","""1-1""",0-0,0,0,0,1,0,0,2,1,5
+9,David Nwankwo,F23David Nwankwo,1,0-1,0-0,0-0,0,0,0,0,0,0,0,0,0
+9,Frank Pena,G25Frank Pena,4,0-0,0-0,0-0,0,1,1,0,0,0,0,0,0
+9,BJ Smith,G40BJ Smith,3,0-0,0-0,0-0,0,0,0,1,0,0,0,0,0
+9,Jon Perry,G44Jon Perry,1,0-0,0-0,"""2-2""",0,0,0,0,0,0,0,0,2
+9,Alex Miller,F45Alex Miller,11,"""1-4""",0-0,0-0,2,2,4,1,0,1,0,1,2
+9,TEAM,TMTEAM,,,,,2,3,5,,,,0,0,
+9,TALS,TOTALS,,24-51,"""7-18""",14-15,11,23,34,10,1,4,20,14,69
+9,,,,47.10%,38.90%,93.30%,,,,,,,,,
+10,ARTERS,STARTERS,,,,,,,,,,,,,
+10,Liech Kong,F14Liech Kong,32,"""2-4""",0-1,0-0,0,4,4,1,0,1,1,4,4
+10,Darrell Green,G02Darrell Green,21,"""2-9""","""1-3""","""2-4""",2,2,4,0,0,0,3,1,7
+10,Jaden Workman,G11Jaden Workman,18,"""3-4""",0-0,0-0,1,0,1,0,1,0,3,1,6
+10,Jacob Morgan,G21Jacob Morgan,28,"""3-10""",0-1,0-0,2,5,7,3,4,0,1,1,6
+10,Can Dalli,G32Can Dalli,20,"""3-10""","""3-10""","""2-3""",0,0,0,0,0,0,2,0,11
+10,SERVES,RESERVES,,,,,,,,,,,,,
+10,Brandon Joseph,F00Brandon Joseph,11,0-3,0-1,"""1-4""",2,1,3,0,0,1,0,1,1
+10,Onterio Miller,G01Onterio Miller,21,"""7-12""","""2-7""",0-0,1,5,6,1,1,1,3,0,16
+10,Thomas Lewis,G05Thomas Lewis,11,"""1-4""","""1-3""",0-0,1,0,1,3,0,0,0,0,3
+10,Josiah Gregg,F12Josiah Gregg,3,0-0,0-0,0-0,0,0,0,0,0,0,0,0,0
+10,Mal Graham,G15Mal Graham,3,0-2,0-1,0-0,0,0,0,0,0,0,1,1,0
+10,Darnell Morris Jr.,G20Darnell Morris Jr.,12,0-4,0-2,0-0,0,0,0,1,1,0,2,1,0
+10,Peter Capan,G22Peter Capan,3,0-0,0-0,0-0,0,0,0,0,0,0,0,0,0
+10,Jordan Price,G31Jordan Price,2,0-0,0-0,0-0,0,0,0,0,0,0,0,0,0
+10,BJ Smith,G40BJ Smith,5,0-2,0-1,0-0,1,1,2,1,0,0,1,0,0
+10,Jon Perry,G44Jon Perry,2,"""1-2""",0-0,0-0,1,1,2,0,0,0,0,0,2
+10,Alex Miller,F45Alex Miller,8,"""1-2""",0-0,0-0,0,1,1,0,0,1,1,1,2
+10,TEAM,TMTEAM,,,,,0,2,2,,,,3,0,
+10,TALS,TOTALS,,23-68,"""7-30""","""5-11""",11,22,33,10,7,4,21,11,58
+10,,,,33.80%,23.30%,45.50%,,,,,,,,,
+11,ARTERS,STARTERS,,,,,,,,,,,,,
+11,Liech Kong,F14Liech Kong,25,"""3-12""","""1-7""","""1-4""",1,4,5,0,0,3,2,1,8
+11,Onterio Miller,G01Onterio Miller,20,"""3-8""","""1-4""",0-0,2,2,4,1,0,0,0,2,7
+11,Darrell Green,G02Darrell Green,20,"""3-8""","""2-5""",0-2,1,1,2,1,0,1,0,2,8
+11,Jaden Workman,G11Jaden Workman,16,"""2-2""",0-0,"""2-3""",1,0,1,0,0,0,2,0,6
+11,Jacob Morgan,G21Jacob Morgan,29,"""5-13""","""1-2""","""6-9""",3,0,3,2,2,0,1,4,17
+11,SERVES,RESERVES,,,,,,,,,,,,,
+11,Brandon Joseph,F00Brandon Joseph,7,0-1,0-0,0-2,1,2,3,0,0,1,0,1,0
+11,Thomas Lewis,G05Thomas Lewis,7,0-2,0-2,0-0,0,0,0,1,0,0,1,1,0
+11,Josiah Gregg,F12Josiah Gregg,4,"""1-1""",0-0,0-0,0,0,0,1,1,0,1,2,2
+11,Mal Graham,G15Mal Graham,4,"""1-3""",0-1,0-0,0,0,0,0,1,0,0,0,2
+11,Darnell Morris Jr.,G20Darnell Morris Jr.,19,"""2-2""","""1-1""","""2-5""",0,4,4,1,2,1,1,3,7
+11,Peter Capan,G22Peter Capan,2,0-0,0-0,0-0,0,0,0,0,0,0,1,1,0
+11,David Nwankwo,F23David Nwankwo,4,0-1,0-0,"""1-2""",0,2,2,0,0,0,0,1,1
+11,Can Dalli,G32Can Dalli,15,"""1-5""","""1-3""",0-0,0,0,0,0,0,0,1,2,3
+11,BJ Smith,G40BJ Smith,6,0-0,0-0,0-0,0,0,0,0,0,0,0,2,0
+11,Jon Perry,G44Jon Perry,14,"""1-5""",0-1,"""1-2""",7,2,9,0,0,0,1,0,3
+11,Alex Miller,F45Alex Miller,8,0-1,0-0,0-0,0,2,2,0,0,1,1,2,0
+11,TEAM,TMTEAM,,,,,0,3,3,,,,1,0,
+11,TALS,TOTALS,,22-64,"""7-26""",13-29,16,22,38,7,6,7,13,24,64
+11,,,,34.40%,26.90%,44.80%,,,,,,,,,
+12,ARTERS,STARTERS,,,,,,,,,,,,,
+12,Alex Miller,F45Alex Miller,30,"""7-8""",0-0,0-1,2,5,7,1,0,2,1,1,14
+12,Darrell Green,G02Darrell Green,31,"""4-6""","""2-4""",0-0,1,5,6,1,0,2,2,2,10
+12,Jaden Workman,G11Jaden Workman,20,"""2-3""",0-0,0-0,0,2,2,2,1,1,0,0,4
+12,Darnell Morris Jr.,G20Darnell Morris Jr.,21,"""1-7""",0-2,0-0,0,4,4,1,2,0,3,2,2
+12,Jacob Morgan,G21Jacob Morgan,33,"""4-11""","""1-2""","""3-3""",1,1,2,4,2,0,3,2,12
+12,SERVES,RESERVES,,,,,,,,,,,,,
+12,Brandon Joseph,F00Brandon Joseph,4,0-1,0-0,0-0,1,1,2,1,0,0,2,1,0
+12,Onterio Miller,G01Onterio Miller,19,"""2-8""","""1-5""",2-Jan,0,1,1,1,1,0,1,1,6
+12,Liech Kong,F14Liech Kong,12,"""2-3""",0-1,0-0,1,0,1,1,0,0,0,1,4
+12,Can Dalli,G32Can Dalli,23,"""4-11""","""2-8""",0-0,0,3,3,0,1,0,0,2,10
+12,Jon Perry,G44Jon Perry,7,0-1,0-0,0-0,1,0,1,0,1,0,1,1,0
+12,TEAM,TMTEAM,,,,,0,3,3,,,,0,0,
+12,TALS,TOTALS,,26-59,"""6-22""","""4-6""",7,25,32,12,8,5,13,13,62
+12,,,,44.10%,27.30%,66.70%,,,,,,,,,
+13,ARTERS,STARTERS,,,,,,,,,,,,,
+13,Darrell Green,02Darrell Green,24,"""1-4""","""1-3""","""2-2""",0,1,1,2,0,0,1,2,5
+13,Liech Kong,14Liech Kong,28,"""3-6""","""1-3""","""1-2""",0,7,7,0,1,1,7,3,8
+13,Darnell Morris Jr.,20Darnell Morris Jr.,22,"""2-4""",0-1,0-0,0,1,1,1,1,0,4,2,4
+13,Jacob Morgan,21Jacob Morgan,34,"""2-5""","""1-1""","""7-8""",0,4,4,5,1,0,5,2,12
+13,Alex Miller,45Alex Miller,10,"""1-1""",0-0,0-0,2,2,4,0,0,0,1,3,2
+13,SERVES,RESERVES,,,,,,,,,,,,,
+13,Brandon Joseph,00Brandon Joseph,16,"""3-6""",0-0,"""4-7""",1,3,4,0,2,0,3,3,10
+13,Onterio Miller,01Onterio Miller,10,0-1,0-1,0-0,1,0,1,0,1,0,2,0,0
+13,Thomas Lewis,05Thomas Lewis,11,"""1-2""","""1-2""",0-0,0,0,0,1,0,0,0,0,3
+13,Jaden Workman,11Jaden Workman,10,0-2,0-1,0-0,0,0,0,0,0,0,3,2,0
+13,Mal Graham,15Mal Graham,4,0-1,0-0,0-0,0,0,0,0,1,0,0,1,0
+13,Peter Capan,22Peter Capan,5,0-1,0-1,0-0,0,0,0,1,0,0,0,0,0
+13,David Nwankwo,23David Nwankwo,3,0-1,0-0,"""2-2""",1,0,1,0,0,0,1,1,2
+13,Can Dalli,32Can Dalli,17,"""2-6""","""2-6""",0-0,0,3,3,0,0,0,1,1,6
+13,Jon Perry,44Jon Perry,6,0-3,0-1,"""3-4""",2,4,6,0,0,0,0,2,3
+13,Team,TMTeam,,,,,4,3,7,,,,0,0,
+13,TALS,TOTALS,,15-43,"""6-20""",19-25,11,28,39,10,7,1,28,22,55
+13,,,,34.90%,30.00%,76.00%,,,,,,,,,
+14,ARTERS,STARTERS,,,,,,,,,,,,,
+14,Liech Kong,F14Liech Kong,27,"""5-12""","""3-7""",0-1,3,2,5,1,0,1,1,3,13
+14,Darrell Green,G02Darrell Green,31,"""2-9""",0-4,0-0,5,2,7,0,1,1,1,2,4
+14,Darnell Morris Jr.,G20Darnell Morris Jr.,15,"""1-5""","""1-3""",0-1,0,2,2,0,1,0,2,0,3
+14,Jacob Morgan,G21Jacob Morgan,38,"""3-10""",0-3,"""6-8""",3,4,7,7,5,0,8,1,12
+14,Can Dalli,G32Can Dalli,26,"""2-9""","""2-7""",0-0,0,1,1,2,1,0,3,4,6
+14,SERVES,RESERVES,,,,,,,,,,,,,
+14,Brandon Joseph,F00Brandon Joseph,8,"""1-2""",0-0,0-0,1,0,1,1,0,2,2,1,2
+14,Onterio Miller,G01Onterio Miller,12,"""2-6""","""2-4""",0-0,1,1,2,1,1,0,0,3,6
+14,Thomas Lewis,G05Thomas Lewis,3,0-1,0-1,0-0,0,0,0,0,0,0,1,1,0
+14,Jaden Workman,G11Jaden Workman,23,"""4-7""","""2-3""","""4-5""",0,2,2,2,0,1,0,3,14
+14,Alex Miller,F45Alex Miller,17,"""2-3""",0-0,0-0,2,7,9,1,0,2,1,1,4
+14,TEAM,TMTEAM,,,,,1,2,3,,,,0,0,
+14,TALS,TOTALS,,22-64,"""10-32""","""10-15""",16,23,39,15,9,7,19,19,64
+14,,,,34.40%,31.30%,66.70%,,,,,,,,,
+15,ARTERS,STARTERS,,,,,,,,,,,,,
+15,Liech Kong,F14Liech Kong,29,"""8-12""","""4-7""","""1-4""",3,9,12,2,1,0,4,3,21
+15,Alex Miller,F45Alex Miller,24,"""2-6""",0-0,0-2,0,0,0,3,2,1,3,2,4
+15,Jaden Workman,G11Jaden Workman,30,"""2-4""","""1-2""","""2-3""",0,3,3,1,2,1,2,1,7
+15,Jacob Morgan,G21Jacob Morgan,36,"""7-11""","""2-5""","""2-2""",1,2,3,10,5,0,1,2,18
+15,Can Dalli,G32Can Dalli,23,"""1-5""","""1-4""",0-0,0,3,3,0,0,0,2,0,3
+15,SERVES,RESERVES,,,,,,,,,,,,,
+15,Brandon Joseph,F00Brandon Joseph,22,"""1-3""",0-0,0-0,0,2,2,0,0,0,0,1,2
+15,Onterio Miller,G01Onterio Miller,19,"""6-8""","""5-6""",0-0,1,1,2,0,1,0,1,1,17
+15,Darrell Green,G02Darrell Green,7,0-0,0-0,0-0,0,0,0,0,0,0,0,0,0
+15,Darnell Morris Jr.,G20Darnell Morris Jr.,6,"""1-4""","""1-4""",0-0,0,0,0,0,0,0,2,4,3
+15,Jon Perry,G44Jon Perry,4,0-1,0-1,0-0,0,1,1,0,0,0,0,0,0
+15,TEAM,TMTEAM,,,,,0,3,3,,,,2,0,
+15,TALS,TOTALS,,28-54,14-29,"""5-11""",5,24,29,16,11,2,17,14,75
+15,,,,51.90%,48.30%,45.50%,,,,,,,,,
+16,ARTERS,STARTERS,,,,,,,,,,,,,
+16,Liech Kong,F14Liech Kong,33,"""5-11""","""2-3""","""1-2""",0,4,4,0,2,0,2,0,13
+16,Alex Miller,F45Alex Miller,13,0-3,0-0,0-0,0,1,1,2,0,0,1,1,0
+16,Darrell Green,G02Darrell Green,21,"""1-3""","""1-3""","""1-2""",0,2,2,1,1,0,0,1,4
+16,Jaden Workman,G11Jaden Workman,24,"""6-9""","""1-2""","""4-5""",1,3,4,2,0,0,2,1,17
+16,Jacob Morgan,G21Jacob Morgan,32,"""4-13""",0-2,"""1-1""",1,5,6,0,0,0,3,0,9
+16,SERVES,RESERVES,,,,,,,,,,,,,
+16,Brandon Joseph,F00Brandon Joseph,16,"""3-6""",0-0,0-0,3,1,4,0,0,0,1,4,6
+16,Onterio Miller,G01Onterio Miller,13,0-4,0-1,0-0,0,0,0,0,0,0,1,3,0
+16,Thomas Lewis,G05Thomas Lewis,2,0-0,0-0,0-0,0,0,0,0,0,0,0,0,0
+16,Josiah Gregg,F12Josiah Gregg,2,0-1,0-0,0-0,0,0,0,0,0,0,0,0,0
+16,Mal Graham,G15Mal Graham,3,0-0,0-0,"""1-2""",0,0,0,0,0,0,0,0,1
+16,Darnell Morris Jr.,G20Darnell Morris Jr.,12,0-3,0-2,0-0,0,0,0,0,0,0,0,0,0
+16,Peter Capan,G22Peter Capan,2,"""1-1""",0-0,0-0,0,0,0,0,0,0,0,0,2
+16,David Nwankwo,F23David Nwankwo,2,0-0,0-0,"""1-2""",1,0,1,0,0,0,0,0,1
+16,Jordan Price,G31Jordan Price,1,0-0,0-0,0-0,0,0,0,0,0,0,0,0,0
+16,Can Dalli,G32Can Dalli,13,0-4,0-3,0-0,0,2,2,0,0,0,0,1,0
+16,BJ Smith,G40BJ Smith,2,0-1,0-0,0-0,0,0,0,0,0,0,0,1,0
+16,Stefan Macakanja,G43Stefan Macakanja,2,0-0,0-0,0-0,0,0,0,0,0,0,0,0,0
+16,Jon Perry,G44Jon Perry,6,0-2,0-1,0-0,0,0,0,0,0,0,0,0,0
+16,James Dugan,F50James Dugan,1,0-0,0-0,0-0,0,0,0,0,0,0,1,0,0
+16,TEAM,TMTEAM,,,,,2,1,3,,,,0,0,
+16,TALS,TOTALS,,20-61,"""4-17""","""9-14""",8,19,27,5,3,0,11,12,53
+16,,,,32.80%,23.50%,64.30%,,,,,,,,,
+17,ARTERS,STARTERS,,,,,,,,,,,,,
+17,Liech Kong,F14Liech Kong,32,"""5-11""",0-3,"""3-7""",1,4,5,0,0,1,2,0,13
+17,Darrell Green,G02Darrell Green,37,"""6-10""","""1-3""","""6-9""",0,4,4,1,1,2,2,4,19
+17,Jaden Workman,G11Jaden Workman,40,"""7-12""",0-0,"""6-8""",1,5,6,0,0,0,3,3,20
+17,Jacob Morgan,G21Jacob Morgan,35,"""8-15""",0-2,"""7-8""",1,2,3,6,4,0,3,4,23
+17,Can Dalli,G32Can Dalli,18,0-1,0-0,0-0,0,2,2,1,2,0,2,3,0
+17,SERVES,RESERVES,,,,,,,,,,,,,
+17,Brandon Joseph,F00Brandon Joseph,12,"""2-4""",0-0,0-2,0,2,2,0,0,0,0,2,4
+17,Onterio Miller,G01Onterio Miller,34,"""3-9""","""1-4""","""2-4""",2,3,5,1,1,1,0,5,9
+17,Darnell Morris Jr.,G20Darnell Morris Jr.,13,"""2-3""",0-0,"""1-2""",0,1,1,0,0,0,1,0,5
+17,Jon Perry,G44Jon Perry,3,"""1-1""","""1-1""",0-0,1,1,2,1,0,0,0,0,3
+17,Alex Miller,F45Alex Miller,1,0-0,0-0,0-0,0,0,0,0,0,1,0,0,0
+17,TEAM,TMTEAM,,,,,2,4,6,,,,1,0,
+17,TALS,TOTALS,,34-66,"""3-13""",25-40,8,28,36,10,8,5,14,21,96
+17,,,,51.50%,23.10%,62.50%,,,,,,,,,
+18,ARTERS,STARTERS,,,,,,,,,,,,,
+18,Liech Kong,F14Liech Kong,39,"""6-12""","""4-8""","""1-2""",1,9,10,3,1,1,1,3,17
+18,Alex Miller,F45Alex Miller,20,"""4-10""",0-0,0-0,1,1,2,1,0,2,3,5,8
+18,Darrell Green,G02Darrell Green,25,"""3-9""","""2-6""","""3-3""",0,2,2,2,1,0,1,3,11
+18,Jaden Workman,G11Jaden Workman,21,0-2,0-0,0-0,0,1,1,4,0,0,2,1,0
+18,Jacob Morgan,G21Jacob Morgan,35,"""5-15""",0-2,"""6-8""",1,4,5,3,2,0,2,2,16
+18,SERVES,RESERVES,,,,,,,,,,,,,
+18,Brandon Joseph,F00Brandon Joseph,20,"""1-2""",0-0,"""2-2""",4,2,6,2,0,1,2,4,4
+18,Onterio Miller,G01Onterio Miller,24,"""4-9""","""1-2""",0-0,4,2,6,0,1,0,0,0,9
+18,Darnell Morris Jr.,G20Darnell Morris Jr.,6,"""1-2""",0-1,0-0,0,2,2,0,0,0,1,1,2
+18,Can Dalli,G32Can Dalli,8,"""1-3""",0-2,0-0,0,0,0,0,0,0,1,0,2
+18,Jon Perry,G44Jon Perry,2,0-1,0-0,0-0,0,1,1,0,0,0,0,0,0
+18,TEAM,TMTEAM,,,,,4,2,6,,,,0,0,
+18,TALS,TOTALS,,25-65,"""7-21""","""12-15""",15,26,41,15,5,4,13,19,69
+18,,,,38.50%,33.30%,80.00%,,,,,,,,,
+19,ARTERS,STARTERS,,,,,,,,,,,,,
+19,Liech Kong,F14Liech Kong,36,"""4-10""","""1-4""","""2-4""",3,5,8,0,1,2,4,1,11
+19,Alex Miller,F45Alex Miller,12,"""1-3""",0-0,0-0,1,1,2,0,1,0,1,1,2
+19,Darrell Green,G02Darrell Green,29,"""3-5""","""2-4""","""3-4""",2,4,6,0,0,1,1,1,11
+19,Jaden Workman,G11Jaden Workman,24,"""2-3""","""1-1""",0-1,2,1,3,2,0,0,1,1,5
+19,Jacob Morgan,G21Jacob Morgan,36,"""2-8""","""1-3""","""8-8""",0,8,8,3,1,0,5,1,13
+19,SERVES,RESERVES,,,,,,,,,,,,,
+19,Brandon Joseph,F00Brandon Joseph,16,0-3,0-0,"""1-2""",1,6,7,2,0,3,1,3,1
+19,Onterio Miller,G01Onterio Miller,24,"""3-6""","""1-3""","""5-7""",0,4,4,0,1,0,2,3,12
+19,Darnell Morris Jr.,G20Darnell Morris Jr.,19,"""3-9""","""3-6""",0-0,0,3,3,1,1,0,1,1,9
+19,Can Dalli,G32Can Dalli,4,0-2,0-2,0-0,0,0,0,0,0,0,0,2,0
+19,TEAM,TMTEAM,,,,,2,1,3,,,,0,0,
+19,TALS,TOTALS,,18-49,"""9-23""",19-26,11,33,44,8,5,6,16,14,64
+19,,,,36.70%,39.10%,73.10%,,,,,,,,,
+20,ARTERS,STARTERS,,,,,,,,,,,,,
+20,Alex Miller,F45Alex Miller,19,"""1-1""",0-0,"""1-1""",0,5,5,3,1,1,3,4,3
+20,Onterio Miller,G01Onterio Miller,25,"""3-7""","""1-4""",0-0,1,3,4,0,0,0,2,1,7
+20,Darrell Green,G02Darrell Green,22,"""5-12""",0-4,0-0,2,1,3,0,1,0,4,1,10
+20,Jaden Workman,G11Jaden Workman,27,"""1-6""",0-2,0-0,1,1,2,1,3,1,4,5,2
+20,Jacob Morgan,G21Jacob Morgan,32,"8-15""",0-1,"""1-3""",0,5,5,2,1,0,3,1,17
+20,SERVES,RESERVES,,,,,,,,,,,,,
+20,Brandon Joseph,F00Brandon Joseph,18,"""2-6""",0-0,"""1-2""",1,8,9,0,0,1,0,4,5
+20,Thomas Lewis,G05Thomas Lewis,4,0-1,0-1,0-0,0,0,0,0,0,0,0,0,0
+20,Josiah Gregg,F12Josiah Gregg,3,0-0,0-0,0-0,0,0,0,0,0,0,0,2,0
+20,Mal Graham,G15Mal Graham,4,"""1-2""",0-0,0-0,0,0,0,0,0,0,1,0,2
+20,Darnell Morris Jr.,G20Darnell Morris Jr.,26,"""5-10""",0-3,"""2-2""",1,3,4,0,0,0,1,0,12
+20,Peter Capan,G22Peter Capan,4,"""1-1""",0-0,0-0,0,0,0,0,0,0,0,0,2
+20,Can Dalli,G32Can Dalli,12,"""2-3""","""1-2""",0-0,0,1,1,0,0,0,2,0,5
+20,Jon Perry,G44Jon Perry,4,0-1,0-1,0-0,0,1,1,0,0,0,0,1,0
+20,TEAM,TMTEAM,,,,,1,0,1,,,,0,0,
+20,TALS,TOTALS,,29-65,"""2-18""","""5-8""",7,28,35,6,6,3,20,19,65
+20,,,,44.60%,11.10%,62.50%,,,,,,,,,
+21,ARTERS,STARTERS,,,,,,,,,,,,,
+21,Alex Miller,F45Alex Miller,27,"""3-7""",0-0,"""1-3""",2,6,8,1,1,0,2,1,7
+21,Onterio Miller,G01Onterio Miller,20,"""1-7""",0-4,0-0,1,1,2,0,0,0,2,4,2
+21,Darrell Green,G02Darrell Green,27,"""5-11""",0-5,"""3-4""",1,5,6,0,0,1,1,0,13
+21,Jaden Workman,G11Jaden Workman,28,"""2-3""",0-1,"""4-5""",0,1,1,2,0,0,1,1,8
+21,Jacob Morgan,G21Jacob Morgan,34,"""5-13""","""1-1""","""5-6""",2,4,6,3,1,1,3,3,16
+21,SERVES,RESERVES,,,,,,,,,,,,,
+21,Brandon Joseph,F00Brandon Joseph,17,"""3-5""",0-0,"""4-6""",3,2,5,1,1,0,1,3,10
+21,Thomas Lewis,G05Thomas Lewis,3,0-0,0-0,"""2-2""",0,1,1,0,0,0,0,0,2
+21,Josiah Gregg,F12Josiah Gregg,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,0
+21,Mal Graham,G15Mal Graham,4,"""2-2""","""2-2""",0-0,0,0,0,0,0,0,0,1,6
+21,Darnell Morris Jr.,G20Darnell Morris Jr.,18,"""1-6""",0-1,0-0,1,3,4,1,0,0,4,5,2
+21,Peter Capan,G22Peter Capan,2,0-0,0-0,0-0,0,0,0,1,0,0,1,1,0
+21,Can Dalli,G32Can Dalli,15,"""2-3""","""2-3""",0-0,0,0,0,1,2,0,0,1,6
+21,Jon Perry,G44Jon Perry,5,0-1,0-0,0-0,1,1,2,0,0,0,0,0,0
+21,TEAM,TMTEAM,,,,,2,1,3,,,,1,0,
+21,TALS,TOTALS,,24-58,"""5-17""",19-26,13,25,38,10,5,2,16,20,72
+21,,,,41.40%,29.40%,73.10%,,,,,,,,,
+22,ARTERS,STARTERS,,,,,,,,,,,,,
+22,Alex Miller,F45Alex Miller,24,"""2-4""",0-0,0-0,1,2,3,2,0,1,1,1,4
+22,Onterio Miller,G01Onterio Miller,27,"""6-10""","""3-6""","""3-3""",0,4,4,1,0,0,1,0,18
+22,Darrell Green,G02Darrell Green,32,"""3-6""","""1-3""","""2-2""",1,6,7,3,0,0,4,2,9
+22,Jaden Workman,G11Jaden Workman,27,"""3-7""",0-0,"""4-6""",0,2,2,0,1,0,5,3,10
+22,Jacob Morgan,G21Jacob Morgan,40,"""5-10""",0-0,"""4-6""",1,7,8,6,3,0,4,2,14
+22,SERVES,RESERVES,,,,,,,,,,,,,
+22,Brandon Joseph,F00Brandon Joseph,19,"""5-7""",0-0,"""2-4""",3,1,4,1,0,1,3,5,12
+22,Darnell Morris Jr.,G20Darnell Morris Jr.,15,"""2-8""","""1-3""","""3-4""",2,2,4,1,0,0,0,3,8
+22,Can Dalli,G32Can Dalli,16,"""4-8""","""3-5""","""1-2""",1,3,4,0,1,0,0,0,12
+22,TEAM,TMTEAM,,,,,3,2,5,,,,2,0,
+22,TALS,TOTALS,,30-60,"""8-17""",19-27,12,29,41,14,5,2,20,16,87
+22,,,,50.00%,47.10%,70.40%,,,,,,,,,
+23,ARTERS,STARTERS,,,,,,,,,,,,,
+23,Alex Miller,F45Alex Miller,18,0-1,0-0,0-0,0,0,0,1,0,2,2,4,0
+23,Onterio Miller,G01Onterio Miller,27,"""5-10""","""2-6""",0-1,0,5,5,0,3,0,2,1,12
+23,Darrell Green,G02Darrell Green,31,"""4-14""","""2-8""","""1-2""",0,5,5,2,3,0,3,3,11
+23,Jaden Workman,G11Jaden Workman,33,"""1-4""",0-0,"""5-6""",0,5,5,3,0,0,2,2,7
+23,Jacob Morgan,G21Jacob Morgan,31,"""5-9""",0-0,"""4-5""",3,6,9,5,2,0,3,4,14
+23,SERVES,RESERVES,,,,,,,,,,,,,
+23,Brandon Joseph,F00Brandon Joseph,17,"""7-7""",0-0,"""4-6""",2,5,7,2,2,1,2,5,18
+23,Thomas Lewis,G05Thomas Lewis,2,0-0,0-0,0-0,0,0,0,0,0,0,0,0,0
+23,Josiah Gregg,F12Josiah Gregg,4,0-0,0-0,0-0,0,1,1,0,0,0,2,3,0
+23,Mal Graham,G15Mal Graham,3,0-1,0-0,0-0,0,1,1,0,1,0,2,2,0
+23,Darnell Morris Jr.,G20Darnell Morris Jr.,20,"""3-5""","""2-3""","""1-2""",0,4,4,1,0,1,1,1,9
+23,Peter Capan,G22Peter Capan,2,0-0,0-0,0-0,0,0,0,0,0,0,0,0,0
+23,Frank Pena,G25Frank Pena,2,0-0,0-0,0-0,0,0,0,0,0,0,0,2,0
+23,Can Dalli,G32Can Dalli,10,"""1-4""","""1-3""","""1-2""",1,0,1,0,0,0,0,1,4
+23,TEAM,TMTEAM,,,,,4,2,6,,,,1,0,
+23,TALS,TOTALS,,26-55,"""7-20""",16-24,10,34,44,14,11,4,20,28,75
+23,,,,47.30%,35.00%,66.70%,,,,,,,,,
+24,ARTERS,STARTERS,,,,,,,,,,,,,
+24,Alex Miller,F45Alex Miller,15,0-0,0-0,0-0,1,0,1,1,1,0,0,1,0
+24,Onterio Miller,G01Onterio Miller,20,"""1-5""",0-3,0-0,0,4,4,1,0,0,1,1,2
+24,Darrell Green,G02Darrell Green,36,"""6-12""","""3-7""","""6-6""",2,2,4,0,0,0,3,4,21
+24,Jaden Workman,G11Jaden Workman,28,"""1-6""",0-1,0-0,1,3,4,2,0,1,2,1,2
+24,Jacob Morgan,G21Jacob Morgan,36,"""8-17""",0-3,"""2-3""",0,3,3,1,3,0,1,1,18
+24,SERVES,RESERVES,,,,,,,,,,,,,
+24,Brandon Joseph,F00Brandon Joseph,30,"""7-9""",0-0,"""5-7""",3,4,7,0,1,0,5,4,19
+24,Darnell Morris Jr.,G20Darnell Morris Jr.,20,"""2-7""","""1-3""","""1-3""",2,1,3,0,0,1,0,4,6
+24,Can Dalli,G32Can Dalli,14,"""1-3""","""1-2""",0-0,0,0,0,0,0,0,0,0,3
+24,Jon Perry,G44Jon Perry,1,0-1,0-1,0-0,0,0,0,0,0,0,1,0,0
+24,TEAM,TMTEAM,,,,,1,6,7,,,,0,0,
+24,TALS,TOTALS,,26-60,"""5-20""",14-19,10,23,33,5,5,2,13,16,71
+24,,,,43.30%,25.00%,73.70%,,,,,,,,,
+25,ARTERS,STARTERS,,,,,,,,,,,,,
+25,Alex Miller,F45Alex Miller,23,"""1-3""",0-0,0-0,0,5,5,0,0,1,0,0,2
+25,Onterio Miller,G01Onterio Miller,28,"""5-12""","""5-12""",0-0,1,2,3,1,1,0,3,0,15
+25,Darrell Green,G02Darrell Green,32,"""4-10""","""2-7""","""4-5""",0,7,7,0,2,0,1,3,14
+25,Jaden Workman,G11Jaden Workman,26,"""4-7""","""1-2""","""3-4""",0,1,1,4,4,1,0,0,12
+25,Jacob Morgan,G21Jacob Morgan,34,"""9-15""","""1-2""","""2-2""",1,3,4,3,4,0,1,2,21
+25,SERVES,RESERVES,,,,,,,,,,,,,
+25,Brandon Joseph,F00Brandon Joseph,22,"""3-8""",0-0,"""1-2""",3,4,7,3,2,0,1,3,7
+25,Thomas Lewis,G05Thomas Lewis,2,0-0,0-0,0-0,0,0,0,0,0,0,0,0,0
+25,Josiah Gregg,F12Josiah Gregg,2,"""1-1""",0-0,0-0,0,0,0,0,0,0,0,0,2
+25,Mal Graham,G15Mal Graham,2,0-1,0-0,0-0,0,0,0,0,0,0,0,0,0
+25,Darnell Morris Jr.,G20Darnell Morris Jr.,13,"""1-3""",0-2,0-0,1,2,3,2,0,0,2,1,2
+25,Peter Capan,G22Peter Capan,2,0-0,0-0,0-0,0,0,0,0,0,0,0,0,0
+25,Frank Pena,G25Frank Pena,2,0-1,0-0,0-0,0,0,0,0,0,0,0,1,0
+25,Can Dalli,G32Can Dalli,12,0-2,0-1,"""1-3""",0,1,1,0,1,0,0,2,1
+25,TEAM,TMTEAM,,,,,3,2,5,,,,0,0,
+25,TALS,TOTALS,,28-63,"""9-26""","""11-16""",9,27,36,13,14,2,8,12,76
+25,,,,44.40%,34.60%,68.80%,,,,,,,,,
+26,ARTERS,STARTERS,,,,,,,,,,,,,
+26,Alex Miller,F45Alex Miller,12,0-1,0-0,"""2-2""",2,4,6,1,0,0,3,1,2
+26,Onterio Miller,G01Onterio Miller,25,"""2-9""",0-6,0-0,0,3,3,2,0,0,2,1,4
+26,Darrell Green,G02Darrell Green,28,"""5-12""","""2-7""","""1-1""",0,0,0,0,1,0,0,4,13
+26,Jaden Workman,G11Jaden Workman,23,"""3-8""","""1-5""",0-2,0,3,3,1,1,0,2,3,7
+26,Jacob Morgan,G21Jacob Morgan,38,"""9-16""","""1-3""","""3-3""",1,4,5,2,3,0,1,3,22
+26,SERVES,RESERVES,,,,,,,,,,,,,
+26,Brandon Joseph,F00Brandon Joseph,23,"""1-6""",0-0,0-2,2,8,10,2,2,1,3,1,2
+26,Thomas Lewis,G05Thomas Lewis,2,0-0,0-0,0-0,0,0,0,0,0,0,0,0,0
+26,Josiah Gregg,F12Josiah Gregg,2,"""1-1""",0-0,0-0,0,0,0,0,0,0,1,0,2
+26,Liech Kong,F14Liech Kong,17,"""1-3""",0-1,0-0,0,2,2,1,0,0,3,0,2
+26,Mal Graham,G15Mal Graham,2,0-1,0-1,0-0,0,0,0,0,0,0,0,0,0
+26,Darnell Morris Jr.,G20Darnell Morris Jr.,18,"""2-5""",0-3,"""1-1""",1,2,3,0,0,1,1,0,5
+26,Peter Capan,G22Peter Capan,2,0-0,0-0,0-0,0,1,1,0,0,0,0,0,0
+26,Frank Pena,G25Frank Pena,2,0-0,0-0,0-0,0,0,0,0,0,0,0,0,0
+26,Can Dalli,G32Can Dalli,6,0-3,0-2,0-0,0,1,1,0,0,0,1,1,0
+26,TEAM,TMTEAM,,,,,1,2,3,,,,0,0,
+26,TALS,TOTALS,,24-65,"""4-28""","""7-11""",7,30,37,9,7,2,17,14,59
+26,,,,36.90%,14.30%,63.60%,,,,,,,,,

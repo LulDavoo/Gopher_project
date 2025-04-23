@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Box Score - Game {{ game_id }}</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='box.css') }}">
+</head>
+<body>
+    <h1>Box Score - Game {{ game_id }}</h1>
+    <table border="1">
+        <thead>
+            <tr>
+                <th>Player</th>
+                <th>Minutes</th>
+                <th>FGM-A</th>
+                <th>3PM-A</th>
+                <th>FTM-A</th>
+                <th>OREB</th>
+                <th>DREB</th>
+                <th>REB</th>
+                <th>AST</th>
+                <th>STL</th>
+                <th>BLK</th>
+                <th>TO</th>
+                <th>PF</th>
+                <th>PTS</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for score in box_scores %}
+            <tr>
+                <td>{{ score["Player"] }}</td>
+                <td>{{score["MIN"] }}</td>             
+                <td>{{ score["FGM-A"] }}</td>
+                <td>{{ score["3PM-A"] }}</td>
+                <td>{{ score["FTM-A"] }}</td>
+                <td>{{ score["OREB"] }}</td>
+                <td>{{ score["DREB"] }}</td>
+                <td>{{ score["REB"] }}</td>
+                <td>{{ score["AST"] }}</td>
+                <td>{{ score["STL"] }}</td>
+                <td>{{ score["BLK"] }}</td>
+                <td>{{ score["TO"] }}</td>
+                <td>{{ score["PF"] }}</td>
+                <td>{{ score["PTS"] }}</td>
+            </tr>
+            {% endfor %}
+           <tr>
+                <td><strong>TOTALS</strong></td>
+                <td></td>
+                <td>{{ totals["FGM"] }}-{{ totals["FGA"] }}</td>
+                <td>{{ totals["3PM"] }}-{{ totals["3PA"] }}</td>
+                <td>{{ totals["FTM"] }}-{{ totals["FTA"] }}</td>
+                <td>{{ totals["OREB"] }}</td>
+                <td>{{ totals["DREB"] }}</td>
+                <td>{{ totals["REB"] }}</td>
+                <td>{{ totals["AST"] }}</td>
+                <td>{{ totals["STL"] }}</td>
+                <td>{{ totals["BLK"] }}</td>
+                <td>{{ totals["TO"] }}</td>
+                <td>{{ totals["PF"] }}</td>
+                <td>{{ totals["PTS"] }}</td>
+           <tr>
+    <td><strong>Percentages</strong></td>
+    <td colspan="1"></td> <!-- Empty column to align properly -->
+    <td>{{ totals["FG%"] }}%</td>
+    <td>{{ totals["3P%"] }}%</td>
+    <td>{{ totals["FT%"] }}%</td>
+    <td colspan="9"></td>
+   <tr> 
+        </tbody>
+    </table>
+</body>
+</html>

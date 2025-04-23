@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Games Schedule</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='games.css') }}">
+</head>
+<body>
+     <h1>Games Schedule</h1>
+       
+     <div class="stats-container">
+        <div class="stats-item">
+            <h4>Overall</h4>
+            <p>{{ overall }}</p>
+        </div>
+        <div class="stats-item">
+            <h4>PCT</h4>
+            <p>{{ pct }}</p>
+        </div>
+        <div class="stats-item">
+            <h4>CONF</h4>
+            <p>{{ conf }}</p>
+        </div>
+        <div class="stats-item">
+            <h4>C.PCT</h4>
+            <p>{{ cpct }}</p>
+        </div>
+        <div class="stats-item">
+            <h4>Streak</h4>
+            <p>{{ streak }}</p>
+        </div>
+        <div class="stats-item">
+            <h4>Home</h4>
+            <p>{{ home }}</p>
+        </div>
+        <div class="stats-item">
+            <h4>Away</h4>
+            <p>{{ away }}</p>
+        </div>
+        <div class="stats-item">
+            <h4>Neutral</h4>
+            <p>{{ neutral }}</p>
+          </div>
+          </div>
+
+   <div class="games-container"> 
+   {% for game in games %}
+        <div class="game-card">
+         <img src="{{ url_for('static', filename='games_images/' + game.opponent + '.png') }}" alt="{{ game.opponent }}" class="opponent-logo">
+            <div class="game-header">
+             <p class="game-date">{{ game.game_date.strftime('%b %d') }}</p> <!-- Formatted date -->  
+             <h2>{{ game.opponent }} <span class="score">{{ game.goucher_score }} - {{ game.opponent_score }}</span></h2>
+             {% if game.result == 'Win' %}
+            <span style="color: green; font-weight: bold;">Win</span>
+         {% elif game.result == 'Loss' %}
+            <span style="color: red; font-weight: bold;">Loss</span>
+         {% else %}
+            <span>{{ game.result }}</span>
+         {% endif %}
+
+
+
+            </div>
+            <div class="game-details">
+              <!--  <p><strong>Date:</strong> {{ game.game_date }}</p> -->
+              <!--  <p><strong>Location:</strong> {{ game.home_or_away }}</p> -->
+                <a href="/boxscore/{{ game.game_id }}" class="boxscore-link">Box Score</a>
+            </div>
+        </div>
+    {% endfor %}
+</body>
+</html>

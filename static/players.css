@@ -1,0 +1,59 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    padding: 20px;
+}
+
+/* Container for Player Info */
+.container {
+    display: flex;
+    align-items: center;
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Player Image */
+.player-photo {
+    width: 150px;
+    height: 180px;
+    border-radius: 10px;
+    margin-right: 20px;
+}
+
+/* Player Info */
+.player-info {
+    text-align: left;
+    flex: 1;
+    padding-right: 20px;
+    border-right: 2px solid #ddd;
+}
+
+/* Stats Section */
+.stats-section {
+    margin-top: 20px;
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Stats Table */
+.stats-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+
+.stats-table th,
+.stats-table td {
+    padding: 10px;
+    text-align: center;
+    border: 1px solid #ddd;
+}
+
+.stats-table th {
+    background: #003366;
+    color: white;
+}

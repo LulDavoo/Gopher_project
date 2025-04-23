@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Goucher MBB 2023-2024 Roster</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='format.css') }}">
+    <style>
+    .hidden-header {
+         display: none;
+    }
+    </style>
+</head>
+<body>
+   <h1>Goucher MBB 2023-2024 Roster</h1>
+        <tbody>
+            <tr>
+
+  <div class="players-container">
+    {% for player in players %}
+    <div class="player-card">
+        <div class="player-image">
+            <img src="{{ url_for('static', filename=player.image_url) }}" alt="{{ player.name }}">
+            <td><a href="{{ url_for('player_profile', player_id=player.player_id) }}">{{ player.name }}</a></td>
+        </div>
+        <div class="player-info">
+            <strong>{{ player.name }}</strong><br>
+            <span>Jersey: {{ player.jersey_number }}</span><br>
+            <span>Position: {{ player.position }}</span><br>
+            <span>Height: {{ player.height }}</span><br>
+            <span>Weight: {{ player.weight }}</span><br>
+            <span>Class Year: {{ player.class_year }}</span>
+        </div>
+    </div>
+    {% endfor %}
+</div>
+             
+    <a href="{{ url_for('games') }}">Go to Games</a> <!-- Link to home or another page -->
+            </td>
+            </tr>
+        </tbody>
+    
+
+</body>
+</html>
+<a href="{{ url_for('coaches') }}" class="nav-link">Go to Coaches Page</a>
+

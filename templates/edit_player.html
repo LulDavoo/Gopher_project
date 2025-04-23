@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Edit Player</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='format.css') }}">
+</head>
+<body>
+
+    <h1>Edit Player</h1>
+
+    <!-- Restrict Access: Only Admins and Coaches -->
+    {% if current_user.is_authenticated and (current_user.role == 'admin' or current_user.role == 'coach') %}
+
+    <form action="{{ 'http://127.0.0.1:5001/players/edit/' ~ player.player_id }}" method="POST" enctype="multipart/form-data">
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="name" value="{{ player.name }}" required><br>
+
+        <label for="jersey_number">Jersey Number:</label>
+        <input type="number" id="jersey_number" name="jersey_number" value="{{ player.jersey_number }}" required><br>
+
+        <label for="position">Position:</label>
+        <input type="text" id="position" name="position" value="{{ player.position }}" required><br>
+
+        <label for="height">Height:</label>
+        <input type="text" id="height" name="height" value="{{ player.height }}" required><br>
+
+        <label for="weight">Weight:</label>
+        <input type="number" id="weight" name="weight" value="{{ player.weight }}" required><br>
+
+        <label for="class_year">Class Year:</label>
+        <select id="class_year" name="class_year" required>
+            <option value="Freshman" {% if player.class_year == "Freshman" %}selected{% endif %}>Freshman</option>
+            <option value="Sophomore" {% if player.class_year == "Sophomore" %}selected{% endif %}>Sophomore</option>
+            <option value="Junior" {% if player.class_year == "Junior" %}selected{% endif %}>Junior</option>
+            <option value="Senior" {% if player.class_year == "Senior" %}selected{% endif %}>Senior</option>
+        </select><br>
+
+        <label for="major">Major:</label>
+        <input type="text" id="major" name="major" value="{{ player.major }}" required><br>
+
+        <label for="minor">Minor (if any):</label>
+        <input type="text" id="minor" name="minor" value="{{ player.minor }}"><br>
+
+        <label for="image">Player Image (Upload new if updating):</label>
+        <input type="file" id="image" name="image" accept="image/*"><br>
+
+        <button type="submit" class="btn btn-warning">Update Player</button>
+    </form>
+    <!-- Delete form -->
+    <form action="{{ 'http://127.0.0.1:5001/players/edit/' ~ player.player_id }}" method="POST" onsubmit="return confirm('Are you sure you want to delete this player?');" style="margin-top: 10px;">
+    <button type="submit" class="btn btn-danger">Delete Player</button>
+    </form>
+    {% else %}
+    <p>You do not have permission to edit players.</p>
+    {% endif %}
+
+    <br>
+    <a href="{{ url_for('players.view_players') }}">Back to Players List</a>
+
+</body>
+</html>

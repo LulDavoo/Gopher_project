@@ -1,0 +1,122 @@
+.stats-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+    max-width: 800px; /* Adjust to fit content */
+    margin: 0 auto;
+}
+
+.stats-item {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: center;
+    background-color: #f8f8f8;
+    min-width: 120px; /* Adjust to avoid small, stacked boxes */
+}
+
+/* Game Card Container - Makes all game cards scroll horizontally */
+.game-card-container {
+    display: flex; /* Aligns all cards in a row */
+    overflow-x: auto; /* Enables horizontal scrolling */
+    overflow-y: hidden; /* Hides vertical overflow */
+    white-space: nowrap; /* Prevents wrapping to the next line */
+    padding: 10px;
+    background-color: #f8f8f8; /* Light gray background */
+    display: flex;
+}
+
+.game-card {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between; /* Ensures even spacing inside the card */
+    align-items: center; /* Keeps elements aligned but allows shifting */
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 10px 15px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+    margin-bottom: 10px; /* Adds space between rows */
+    width: 100%;
+   gap: 30px;
+}
+
+/* Team logo styling */
+.game-card img {
+    width: 75px;
+    height: auto;
+    margin-right: 20px;
+}
+
+/* Game date styling */
+.game-date {
+    font-size: 14px;
+    color: #666; /* Slightly dark gray for readability */
+    padding-left: 20px;
+    text-align: center;
+    width: 180px;
+   display: inline-block;
+}
+
+/* Game result text */
+.game-result {
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    color: #222;
+    padding-left: 20px;
+    width: 180px;
+    display: inline-block;
+}
+
+/* Color for win/loss */
+.game-card.win .game-result {
+    color: #eaffea; !important;
+    font-weight: bold;
+}
+
+.game-card.loss .game-result {
+    color: #ffeaea; !important;
+    font-weight: bold;
+}
+
+/* Box score link */
+.boxscore-link {
+    color: blue;
+    text-decoration: none;
+    font-size: 13px;
+    display: block;
+    text align: left;
+    padding-left: 0px;
+    margin-left: -90px;
+    position: relative;
+}
+
+.boxscore-link:hover {
+    text-decoration: underline;
+}
+
+/* Keeps the container starting at the very left */
+.game-card-container {
+    margin-left: 0;
+    padding-left: 0;
+}
+
+/* Custom scrollbar styling */
+.game-card-container::-webkit-scrollbar {
+    height: 6px;
+}
+
+.game-card-container::-webkit-scrollbar-thumb {
+    background: #aaa;
+    border-radius: 3px;
+}
+.games-container {
+    clear: both;
+    margin-top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex start;
+}
+
+
